@@ -1,0 +1,9 @@
+*.o
+main
+test
+data
+pyplot
+*.txt
+*.html
+*.png
+
